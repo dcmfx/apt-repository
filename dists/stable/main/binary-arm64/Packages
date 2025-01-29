@@ -12,3 +12,17 @@ SHA512: cf5bb17e5ff20e04eb53c1ec45fecdd1ca127b172098304676511a1bf35f38c81f509f5c
 Homepage:     https://dcmfx.github.io
 Description:  CLI tool for working with DICOM and DICOM JSON
 
+Package:      dcmfx
+Architecture: arm64
+Version:      0.7.0
+Section: utils
+Maintainer:   Richard Viney <richard.viney@gmail.com>
+Filename: pool/main/dcmfx_0.7.0_arm64.deb
+Size: 1418846
+MD5sum: 5bb1ca417df4edd83ed0c234d4e60a6a
+SHA1: f8d8f5b9151d7d15ffa66f539c367bcbe63681e9
+SHA256: e9de57af3d30029184c1326704f6ffd49a9602538abed7de603c7e559186b867
+SHA512: 1ea5f1e2519f1410bc69b197d28ecfa2448b906050991f282c5cd378dd61c865da2d6ab6e7b99f96828dbb0e0a88bb0ea71ff636d66c2c204cc2876198f17742
+Homepage:     https://dcmfx.github.io
+Description:  CLI tool for working with DICOM and DICOM JSON
+
