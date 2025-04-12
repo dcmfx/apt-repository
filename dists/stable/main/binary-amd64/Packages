@@ -126,6 +126,20 @@ Description:  CLI tool for working with DICOM and DICOM JSON
 
 Package:      dcmfx
 Architecture: amd64
+Version:      0.16.0
+Section: utils
+Maintainer:   Richard Viney <richard.viney@gmail.com>
+Filename: pool/main/dcmfx_0.16.0_amd64.deb
+Size: 6016340
+MD5sum: f0b083e1f0e5b3663ca281f4d03e8940
+SHA1: 21209786e6407ef42e55af7011dffced34e60147
+SHA256: 2b69233442c3541ede3cd405342d21e0d7c086bb83acd01f1233333997bb9bd6
+SHA512: ad92db879d2031c8bedf80e70d1dac28b94a06c9bd0905d0ff84e643f7373f061cc3e988802b233c3ce491b3fbe1235f956f619572b29165b87115e0bb7d507a
+Homepage:     https://dcmfx.github.io
+Description:  CLI tool for working with DICOM and DICOM JSON
+
+Package:      dcmfx
+Architecture: amd64
 Version:      0.6.0
 Section: utils
 Maintainer:   Richard Viney <richard.viney@gmail.com>
