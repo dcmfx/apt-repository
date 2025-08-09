@@ -1,47 +1,47 @@
 Architectures: amd64 arm64
 Components: main
-Date: Tue, 05 Aug 2025 03:49:07 +0000
+Date: Sat, 09 Aug 2025 09:00:21 +0000
 Description: CLI tool for working with DICOM and DICOM JSON
 Label: DCMfx
 Origin: https://dcmfx.github.io/apt-repository
 Suite: stable
 MD5Sum:
- 673f497271c2988a72caa8a8202f40ce              216 Release
+ a1d590c2ff62f3fc0a2ab5f79647829e              216 Release
  d41d8cd98f00b204e9800998ecf8427e                0 main/Contents-amd64
  e62ff0123a74adfc6903d59a449cbdb0               40 main/Contents-amd64.gz
  d41d8cd98f00b204e9800998ecf8427e                0 main/Contents-arm64
  e62ff0123a74adfc6903d59a449cbdb0               40 main/Contents-arm64.gz
- c88b8a0a7b100df3723819e2b92e575b            21052 main/binary-amd64/Packages
- 7a5594994af39114c455ef106d654729             6783 main/binary-amd64/Packages.gz
- 602de7e143ff96fcfc860d677068f3c3            21052 main/binary-arm64/Packages
- fb75d1993d40bb726053580e9d6df9d1             6777 main/binary-arm64/Packages.gz
+ 665217599d451d84d08f79195c94181b            21637 main/binary-amd64/Packages
+ 2d82f36c66f2019e922b56d6bbd4ee80             6966 main/binary-amd64/Packages.gz
+ 22530897b27fef5ba864520c16a27ce7            21637 main/binary-arm64/Packages
+ aa4c6ee089440baa3384e5c1f16a7495             6956 main/binary-arm64/Packages.gz
 SHA1:
- 370ec9c8faa6a3501edcdc57bbdb6a1517fcaf93              216 Release
+ cba424e14d3a356614703c915ec09f46617125cf              216 Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/Contents-amd64
  e3f4c61a216c2c9613cd3bdd1420dde095b296b3               40 main/Contents-amd64.gz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/Contents-arm64
  e3f4c61a216c2c9613cd3bdd1420dde095b296b3               40 main/Contents-arm64.gz
- 7daebe099b2e863cc3879280c916837f26bed425            21052 main/binary-amd64/Packages
- b666c48d7e4c91dd133d3c1adb7f95d0d7573ca9             6783 main/binary-amd64/Packages.gz
- 3dfe6fe6d8b3c9e48b65fd615e9b3e8ee7adf1de            21052 main/binary-arm64/Packages
- 58bb3ba077345d8613f5a76f3aa6f642bd557d8d             6777 main/binary-arm64/Packages.gz
+ d339e33ff6ab6270b51e10056aba3e54f1786710            21637 main/binary-amd64/Packages
+ 9e05803a68bfbe919b39b2e0b27b3b012f38b7f4             6966 main/binary-amd64/Packages.gz
+ 2b009e10cb958c21f9cb975895b461fa5db883ab            21637 main/binary-arm64/Packages
+ 2e7d653383a2dbe9d45a82f3432850882f6bd447             6956 main/binary-arm64/Packages.gz
 SHA256:
- 0da2f8ee699dc4a0ab52872fde6fdb091540b299a258eb7034e6df3e7beb96cb              216 Release
+ e666fede83d9ad844445bee3e1dbd005d65142d1c88c3b523772dcf2f40d97f3              216 Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/Contents-amd64
  e7ab72b8f37c7c9c9f6386fb8e3dfa40bf6fe4b67876703c5927e47cb8664ce4               40 main/Contents-amd64.gz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/Contents-arm64
  e7ab72b8f37c7c9c9f6386fb8e3dfa40bf6fe4b67876703c5927e47cb8664ce4               40 main/Contents-arm64.gz
- 0648e33964eca106b73d0b11eb4fbacd898b631320e653e2568a67bfe277a7de            21052 main/binary-amd64/Packages
- 16aacb8de2cf8262cf16436cf45ef7413612b256a998acf439abf18b4f5c3d7f             6783 main/binary-amd64/Packages.gz
- 1cc6ce21e8b81fccdd9bc70639853bc6709285cbaeb99383cca3e124fbcdf8eb            21052 main/binary-arm64/Packages
- 7a103be0e075df7efeb76f4d63572202bd83a1f5c511728578937b2200d38410             6777 main/binary-arm64/Packages.gz
+ 042ed7ee8d3f22d1df88e993ac003e980a9a204ad1152826603c088b82e1df0b            21637 main/binary-amd64/Packages
+ 525799db553e7a9a26bd7cf26d42e03afe1022d5106f9fa7fa806661c74d35c3             6966 main/binary-amd64/Packages.gz
+ 095f13747071e2fbd391ff5437643116f44fe28c750476700a3d8961997940fd            21637 main/binary-arm64/Packages
+ 887431ae2d25596e5ae16d5fc10ac743e6810eb67538b2bfa360c140be8beaf1             6956 main/binary-arm64/Packages.gz
 SHA512:
- 8c6d169f5ae5eba2823947ffff0a69ade7328ec257c82b93b16f64acca2910b31f10cd00f75f1ef968cca8c26ccb21b3d25a6101b6c558e66daa26e90b13bb53              216 Release
+ 5d68552e752c74e9b62bfd1d1496f13e5668b8cda402c832333ebe2fc73963d83fe2ca8ae170fa9a07312c2836b472918ec33408f648b4ae70d2366e38d92a65              216 Release
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/Contents-amd64
  4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 main/Contents-amd64.gz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/Contents-arm64
  4837cb0c747b88cd66d2e8a7cb7fe2808a8fd9f967e467810a0dddfee9befdef8891f3be5c26e319d2ac8a869cb9e39d5ba1fb484db73231cec9fd66d1d5df33               40 main/Contents-arm64.gz
- a64865614b324664e0364aeea06334995bdab9090330a386cf33af0d61a2e5916b5ec140ecb0b2904aadf42e0d46df76f19fa350342133dd94d382930ad36860            21052 main/binary-amd64/Packages
- e62e360c5a49d532161226bd938dec1c10d2bc2c2766242bb6717ff8392cf1b5ffcd09a882c196b562abe2856c30be32e2412136da5276492e40806f7ebe31a3             6783 main/binary-amd64/Packages.gz
- 82b53d5bbf3c3ab730e75c4b74fc05333759e4ae689a2ac4d255c3a024da4c3fd0e22f0b61fdb8bdf7de0cce19f4c6db4be9426308dc5684a5a291384249021f            21052 main/binary-arm64/Packages
- 71896fd31ab8bc6796955b658a2e76184914fa49e244409b6d44d40542f1f0a1d9b037b144c07a59016745d974f103c6a9487a55cdea03b4a530ed76a05737a6             6777 main/binary-arm64/Packages.gz
+ b4bc12fadad535af427d512ab66c74dcd86a0e75ce4c0a60d008b72dc84e0da9a32525f1d086be7b4949564f576a4128ce16c0bc5160f201d62fa56f9bfc84b0            21637 main/binary-amd64/Packages
+ 135575adf1e3dab809dd6552f91bf62ca1bc8a8f437f7f5bce0351418c169de2a1ceb40ac8dda97895ca717713a95dc3407afb5889e746311a81202127a551b8             6966 main/binary-amd64/Packages.gz
+ ee05214855c0f28adf347ef55cf6a6b0f6d9ad5da25251e89f74b40ab86fed02c426f1dde1e1e48ac9822ffc6b4b1e2e7068d09161b732c0ff9de892efe59671            21637 main/binary-arm64/Packages
+ e800fd3c9876868e7414d67b73eab8eb0a71a08b7569424be8297acaf92a25066410478e4a38badb73080ca42ba885632eafb23abf873f16485acfe9d2073d54             6956 main/binary-arm64/Packages.gz
