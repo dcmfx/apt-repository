@@ -868,6 +868,20 @@ Description:  CLI tool for working with DICOM and DICOM JSON
 
 Package:      dcmfx
 Architecture: amd64
+Version:      0.45.6
+Section: utils
+Maintainer:   HeartLab Ltd. <dcmfx@heartlab.com>
+Filename: pool/main/dcmfx_0.45.6_amd64.deb
+Size: 10211356
+MD5sum: 04c9370e98d570ec08fdf5989f5bf5bd
+SHA1: 618c43dbeff9b98ebee30f07052ed24bd656f791
+SHA256: 7c177ef5cc23d1c9b732e45d248414e76d2263321b5e044789d68bb5144c6cb9
+SHA512: 8c1b66742ccee4e3f52af9a76f8f687f165ec9c259327329eeb64ad3557dc8341655131d924fd7484b1a69c1b879f0f7462e2d98946ab82508d7123158d2a663
+Homepage:     https://dcmfx.github.io
+Description:  CLI tool for working with DICOM and DICOM JSON
+
+Package:      dcmfx
+Architecture: amd64
 Version:      0.6.0
 Section: utils
 Maintainer:   Richard Viney <richard.viney@gmail.com>
